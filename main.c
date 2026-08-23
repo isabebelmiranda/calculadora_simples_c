@@ -41,7 +41,7 @@ int main() {
         }
 
         break;
-    }
+        }
 
         if (opcao == 5) {
             printf("Obrigado por usar a calculadora! Até a próxima.\n");
